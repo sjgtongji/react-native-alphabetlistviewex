@@ -1,0 +1,3 @@
+rootProject.name = 'RNAlphaListViewEx'
+
+include ':app'
